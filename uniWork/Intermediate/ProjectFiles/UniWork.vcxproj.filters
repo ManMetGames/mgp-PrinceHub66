@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UniWork.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UniWorkEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\UniWork">
+      <UniqueIdentifier>{06D47626-2558-359B-BDCC-7C93E3392A50}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UniWork\SwordProjectile.cpp">
+      <Filter>Source\UniWork</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\SwordProjectile.h">
+      <Filter>Source\UniWork</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UniWork\UniWork.Build.cs">
+      <Filter>Source\UniWork</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UniWork\UniWork.cpp">
+      <Filter>Source\UniWork</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\UniWork.h">
+      <Filter>Source\UniWork</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UniWork\UniWorkCameraManager.cpp">
+      <Filter>Source\UniWork</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\UniWorkCameraManager.h">
+      <Filter>Source\UniWork</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UniWork\UniWorkCharacter.cpp">
+      <Filter>Source\UniWork</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\UniWorkCharacter.h">
+      <Filter>Source\UniWork</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UniWork\UniWorkGameMode.cpp">
+      <Filter>Source\UniWork</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\UniWorkGameMode.h">
+      <Filter>Source\UniWork</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UniWork\UniWorkPlayerController.cpp">
+      <Filter>Source\UniWork</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\UniWorkPlayerController.h">
+      <Filter>Source\UniWork</Filter>
+    </ClInclude>
+    <Filter Include="Source\UniWork\Variant_Horror">
+      <UniqueIdentifier>{A0E6E24C-6E1E-3696-BB4C-5BF9C5C27ACC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Horror\HorrorCharacter.cpp">
+      <Filter>Source\UniWork\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Horror\HorrorCharacter.h">
+      <Filter>Source\UniWork\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Horror\HorrorGameMode.cpp">
+      <Filter>Source\UniWork\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Horror\HorrorGameMode.h">
+      <Filter>Source\UniWork\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Horror\HorrorPlayerController.cpp">
+      <Filter>Source\UniWork\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Horror\HorrorPlayerController.h">
+      <Filter>Source\UniWork\Variant_Horror</Filter>
+    </ClInclude>
+    <Filter Include="Source\UniWork\Variant_Horror\UI">
+      <UniqueIdentifier>{089B8431-925E-3697-ADA4-AF6FE7E71758}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Horror\UI\HorrorUI.cpp">
+      <Filter>Source\UniWork\Variant_Horror\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Horror\UI\HorrorUI.h">
+      <Filter>Source\UniWork\Variant_Horror\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\UniWork\Variant_Shooter">
+      <UniqueIdentifier>{D554BBEA-6BFF-3CF4-93A3-76AB360D7622}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UniWork\Variant_Shooter\AI">
+      <UniqueIdentifier>{5750CA48-57F7-3645-9BDA-E3F3A8D937F1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Shooter\AI\EnvQueryContext_Target.cpp">
+      <Filter>Source\UniWork\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Shooter\AI\EnvQueryContext_Target.h">
+      <Filter>Source\UniWork\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Shooter\AI\ShooterAIController.cpp">
+      <Filter>Source\UniWork\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Shooter\AI\ShooterAIController.h">
+      <Filter>Source\UniWork\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Shooter\AI\ShooterNPC.cpp">
+      <Filter>Source\UniWork\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Shooter\AI\ShooterNPC.h">
+      <Filter>Source\UniWork\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Shooter\AI\ShooterNPCSpawner.cpp">
+      <Filter>Source\UniWork\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Shooter\AI\ShooterNPCSpawner.h">
+      <Filter>Source\UniWork\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Shooter\AI\ShooterStateTreeUtility.cpp">
+      <Filter>Source\UniWork\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Shooter\AI\ShooterStateTreeUtility.h">
+      <Filter>Source\UniWork\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Shooter\ShooterCharacter.cpp">
+      <Filter>Source\UniWork\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Shooter\ShooterCharacter.h">
+      <Filter>Source\UniWork\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Shooter\ShooterGameMode.cpp">
+      <Filter>Source\UniWork\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Shooter\ShooterGameMode.h">
+      <Filter>Source\UniWork\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Shooter\ShooterPlayerController.cpp">
+      <Filter>Source\UniWork\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Shooter\ShooterPlayerController.h">
+      <Filter>Source\UniWork\Variant_Shooter</Filter>
+    </ClInclude>
+    <Filter Include="Source\UniWork\Variant_Shooter\UI">
+      <UniqueIdentifier>{5EEF05C6-88B4-3AA9-991B-D5E9CB96E1E7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Shooter\UI\ShooterBulletCounterUI.cpp">
+      <Filter>Source\UniWork\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Shooter\UI\ShooterBulletCounterUI.h">
+      <Filter>Source\UniWork\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Shooter\UI\ShooterUI.cpp">
+      <Filter>Source\UniWork\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Shooter\UI\ShooterUI.h">
+      <Filter>Source\UniWork\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\UniWork\Variant_Shooter\Weapons">
+      <UniqueIdentifier>{804EE3BA-CEAB-3D65-9339-455CFA26B93D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Shooter\Weapons\ShooterPickup.cpp">
+      <Filter>Source\UniWork\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Shooter\Weapons\ShooterPickup.h">
+      <Filter>Source\UniWork\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Shooter\Weapons\ShooterProjectile.cpp">
+      <Filter>Source\UniWork\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Shooter\Weapons\ShooterProjectile.h">
+      <Filter>Source\UniWork\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Shooter\Weapons\ShooterWeapon.cpp">
+      <Filter>Source\UniWork\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Shooter\Weapons\ShooterWeapon.h">
+      <Filter>Source\UniWork\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UniWork\Variant_Shooter\Weapons\ShooterWeaponHolder.cpp">
+      <Filter>Source\UniWork\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UniWork\Variant_Shooter\Weapons\ShooterWeaponHolder.h">
+      <Filter>Source\UniWork\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <None Include="..\..\UniWork.uproject" />
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>

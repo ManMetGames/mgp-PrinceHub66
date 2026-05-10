@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\david\\onedrive\\documents\\unreal projects\\uniwork\\source\\uniwork\\uniworkcameramanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\david\\onedrive\\documents\\unreal projects\\uniwork\\intermediate\\build\\win64\\x64\\uniworkeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\david\\onedrive\\documents\\unreal projects\\uniwork\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uniwork\\definitions.uniwork.h",
+            "c:\\users\\david\\onedrive\\documents\\unreal projects\\uniwork\\source\\uniwork\\uniworkcameramanager.h",
+            "c:\\users\\david\\onedrive\\documents\\unreal projects\\uniwork\\intermediate\\build\\win64\\unrealeditor\\inc\\uniwork\\uht\\uniworkcameramanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

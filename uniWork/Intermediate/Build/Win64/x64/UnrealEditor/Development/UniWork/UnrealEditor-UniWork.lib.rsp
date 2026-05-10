@@ -1,0 +1,36 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UniWork.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UniWorkEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/Module.UniWork.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/SwordProjectile.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/UniWork.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/UniWorkCameraManager.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/UniWorkCharacter.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/UniWorkGameMode.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/UniWorkPlayerController.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/HorrorCharacter.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/HorrorGameMode.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/HorrorPlayerController.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/HorrorUI.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/ShooterCharacter.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/ShooterGameMode.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/ShooterPlayerController.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/EnvQueryContext_Target.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/ShooterAIController.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/ShooterNPC.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/ShooterNPCSpawner.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/ShooterStateTreeUtility.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/ShooterBulletCounterUI.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/ShooterUI.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/ShooterPickup.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/ShooterProjectile.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/ShooterWeapon.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/ShooterWeaponHolder.cpp.obj"
+"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/Default.rc2.res"
+/OUT:"C:/Users/david/OneDrive/Documents/Unreal Projects/uniWork/Intermediate/Build/Win64/x64/UnrealEditor/Development/UniWork/UnrealEditor-UniWork.lib"
