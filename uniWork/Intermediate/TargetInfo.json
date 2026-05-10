@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UniWork",
+			"Path": "..\\Source\\UniWork.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UniWorkEditor",
+			"Path": "..\\Source\\UniWorkEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
